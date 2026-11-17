@@ -7,13 +7,6 @@ Agent / LLM 相关动手示例代码，按章节组织。当前包含第一章�
 - Node.js 18+（需支持原生 `fetch`）
 - 部分示例需配置 DeepSeek API Key
 
-在对应子目录创建 `.env`（已由根目录 `.gitignore` 忽略）：
-
-```env
-DEEPSEEK_API_KEY=你的密钥
-DEEPSEEK_MODEL=deepseek-v4-flash
-```
-
 ## 第一章
 
 | 目录 | 说明 |
